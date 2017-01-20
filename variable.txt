@@ -1,0 +1,7 @@
+stdio				1
+h				1
+main				3
+a				4
+a				8
+printf				9
+a				9
